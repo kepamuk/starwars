@@ -1,0 +1,22 @@
+.ListItem{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.ListItem__label {
+  width: 200px;
+}
+
+.Person__controls{
+  display: flex;
+  justify-content: space-between;
+}
+
+.edit{
+  text-align: center;
+  margin-top: 20px;
+}
+.edit__button{
+  width: 300px;
+  margin: 0 auto;
+}
+

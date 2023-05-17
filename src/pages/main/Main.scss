@@ -1,0 +1,25 @@
+.table{
+  margin-top: 20px;
+}
+
+.table__wrap{
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.table__wrap-table{
+  width: 80%;
+}
+
+.table__wrap-filter{
+  width: 20%;
+}
+
+.empty-loader{
+  height: 4px;
+}
+
+.filter__button{
+  height: 50px;
+}
